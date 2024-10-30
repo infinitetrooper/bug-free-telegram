@@ -14,6 +14,9 @@
     },
     {
       "key": "text"
+    },
+    {
+      "key": "textColor"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
@@ -33,6 +36,8 @@
   "mobileRightColumn": 14,
   "mobileTopRow": 9,
   "needsErrorInfo": false,
+  "originalBottomRow": 11,
+  "originalTopRow": 7,
   "overflow": "NONE",
   "parentColumnSpace": 10.34375,
   "parentId": "0",
@@ -43,7 +48,7 @@
   "shouldTruncate": false,
   "text": "{{New_Name.name.data}}",
   "textAlign": "LEFT",
-  "textColor": "#231F20",
+  "textColor": "{{appsmith.theme.colors.primaryColor}}",
   "topRow": 7,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
