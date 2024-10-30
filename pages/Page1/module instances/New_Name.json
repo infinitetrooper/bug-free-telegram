@@ -1,0 +1,30 @@
+{
+  "gitSyncId": "672242cef1180e1bffdd3bd6_eaad8fb8-c3d3-4019-8274-853a684b25a0",
+  "id": "Page1_New_Name",
+  "moduleUUID": "779d1e30-0108-4570-a858-2a9c581461a2",
+  "packageUUID": "e7290271-1737-4f42-a49e-a417f21c40ae",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "name"
+      }
+    ],
+    "inputs": {
+      "name": "[\"{{Input1.text}}\",\"Varma\"]"
+    },
+    "moduleInputs": {
+      "vcuqcayrgi": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "vcuqcayrgi",
+        "label": "name",
+        "propertyName": "inputs.name"
+      }
+    },
+    "name": "New_Name",
+    "pageId": "Page1",
+    "version": "0.0.3"
+  }
+}
